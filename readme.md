@@ -15,12 +15,11 @@ android-design-patterns-reference/
 ├── 1_Principles/
 |   |── SOLID/
 |   |    |── SRP.md
-|   |    |── 
+|   |    |── OCP.md
+|   |    └── LSP.md
 │   ├── DRY.md
 │   ├── KISS.md
 │   ├── SoC.md
-│   ├── 
-│   ├── Separation_Of_Concerns.md
 │   └── High_Cohesion_Low_Coupling.md
 │
 ├── 2_Design_Patterns/
