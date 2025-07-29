@@ -13,10 +13,13 @@ android-design-patterns-reference/
 ├── README.md                         <-- Full overview + index
 │
 ├── 1_Principles/
+|   |── SOLID/
+|   |    |── SRP.md
+|   |    |── 
 │   ├── DRY.md
 │   ├── KISS.md
-│   ├── SRP.md
-│   ├── SOLID_Overview.md
+│   ├── SoC.md
+│   ├── 
 │   ├── Separation_Of_Concerns.md
 │   └── High_Cohesion_Low_Coupling.md
 │
