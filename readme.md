@@ -5,6 +5,49 @@ This repository is a comprehensive, beginner-friendly, and real-world guide to m
 > ✨ Ideal for personal reference and helping fellow developers.
 
 ---
+## 📚 Folder & File Structure
+
+```
+android-design-patterns-reference/
+│
+├── README.md                         <-- Full overview + index
+│
+├── 1_Principles/
+│   ├── DRY.md
+│   ├── KISS.md
+│   ├── SRP.md
+│   ├── SOLID_Overview.md
+│   ├── Separation_Of_Concerns.md
+│   └── High_Cohesion_Low_Coupling.md
+│
+├── 2_Design_Patterns/
+│   ├── MVVM/
+│   │   ├── explanation.md
+│   │   ├── sample_project/          <-- Small project or code demo
+│   ├── Singleton.md
+│   ├── Adapter.md
+│   ├── Builder.md
+│   ├── Factory.md
+│   ├── Observer.md
+│   ├── Strategy.md
+│   ├── Repository_Pattern.md
+│   ├── Command.md
+│   ├── Facade.md
+│
+├── 3_CheatSheets/
+│   ├── solid_principles_cheatsheet.png
+│   ├── design_patterns_cheatsheet.pdf
+│
+├── 4_Examples/
+│   ├── mvvm_example_app/
+│   ├── singleton_retrofit_demo/
+│   └── observer_livedata_flow_demo/
+│
+├── LICENSE
+└── CONTRIBUTING.md (Optional)
+
+```
+---
 
 ## 📌 Contents
 
