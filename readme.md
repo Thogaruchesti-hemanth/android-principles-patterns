@@ -16,10 +16,13 @@ android-design-patterns-reference/
 |   |── SOLID/
 |   |    |── SRP.md
 |   |    |── OCP.md
-|   |    └── LSP.md
+|   |    |── LSP.md
+|   |    |── ISP.md
+|   |    └── DIP.md
 │   ├── DRY.md
 │   ├── KISS.md
 │   ├── SoC.md
+|   ├── YAGNI.md
 │   └── High_Cohesion_Low_Coupling.md
 │
 ├── 2_Design_Patterns/
