@@ -10,7 +10,7 @@ This repository is a comprehensive, beginner-friendly, and real-world guide to m
 ```
 android-design-patterns-reference/
 │
-├── README.md                         <-- Full overview + index
+├── README.md                         
 │
 ├── 1_Principles/
 |   |── SOLID/
@@ -25,7 +25,7 @@ android-design-patterns-reference/
 ├── 2_Design_Patterns/
 │   ├── MVVM/
 │   │   ├── explanation.md
-│   │   ├── sample_project/          <-- Small project or code demo
+│   │   ├── sample_project/
 │   ├── Singleton.md
 │   ├── Adapter.md
 │   ├── Builder.md
