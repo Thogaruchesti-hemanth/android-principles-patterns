@@ -1,8 +1,4 @@
-# 📘 MVC Design Pattern in Android
-
-A beginner-to-intermediate friendly guide to understanding the **MVC (Model-View-Controller)** architectural pattern in the context of Android app development.
-
----
+# 📘 MVC (Model-View-Controller) Design Pattern in Android
 
 ## 📌 Introduction
 
